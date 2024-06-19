@@ -1,19 +1,39 @@
-Welcome to your new dbt project!
+# Snowflakes❄ + DBT👨‍💻 Full Project🤯
 
-### Using the starter project
+This post will cover an end-to-end project where we will be using snowflakes and DBT.
 
-Try running the following commands:
-- dbt run
-- dbt test
+- **Github link👨‍💻**: https://github.com/Ravikumar10593-hub/dbt-snowfalkes-project
 
-### Published version of DBT docs and DBT Elementary dashboard:
-- DBT docs : [Link](https://dbt-snowfalkes-project.vercel.app/#!/overview)
-- DBT elementary dashboadr : [Link](https://dbt-snowfalkes-project-elementary-report.vercel.app/#/report/dashboard)
+## Problem Statement:
 
+- **Snowflakes account set up and data push**: Set up a free Snowflakes account and use DBT to push the data from your local directory to the Snowflakes database
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+<p style="text-align: center;"> 
+    <a href="https://medium.com/dev-genius/snowflakes-dbt-full-project-part-1-276526d12fe8">Full Article Read here</a>
+
+![alt text](asset/image-1.png)
+
+- **Playing around with DBT core**: Use DBT to run and test all the .sql and .ymlfiles using Snowflakes as a data platform
+
+<p style="text-align: center;"> 
+    <a href="https://medium.com/@ravikumar10593/snowflakes-dbt-full-project-part-2-6f3390feefc1">Full Article Read here</a>
+
+![alt text](asset/image-2.png)
+
+- **CICD and Deployment**: Push the entire code to Github and deploy the DBT document as a web page using Vercel or GitHub page (Link)
+
+<p style="text-align: center;"> 
+    <a href="https://medium.com/@ravikumar10593/snowflakes-dbt-full-project-part-3-584ba739dcb9">Full Article Read here</a>
+</p>
+
+![alt text](asset/image-3.png)
+
+## Solution Architecture
+
+![alt text](asset/image.png)
+
+## Published version of DBT docs and DBT Elementary dashboard🕸:
+
+- DBT docs: [Link](https://dbt-snowfalkes-project.vercel.app/#!/overview)
+- DBT elementary dashboard: [Link](https://dbt-snowfalkes-project-elementary-report.vercel.app/#/report/dashboard)
+
